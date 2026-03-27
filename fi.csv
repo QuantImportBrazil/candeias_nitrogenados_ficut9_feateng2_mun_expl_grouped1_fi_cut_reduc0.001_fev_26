@@ -1,5 +1,19 @@
 names,importances,experiment_id,CO_MES,var_target
-"('01~mes', '1701~prdt', '26~geo1', '999~geo3', 'kt')",0.07109882360343509,1fbb663d-bebe-4c83-ad38-f2a27cdd35e4,03~mes,kt
-ANO,0.033903940068839074,1fbb663d-bebe-4c83-ad38-f2a27cdd35e4,03~mes,kt
-"('03~mes', '3104~prdt', '4~geo1', '999~geo3', 'preço_rel')",0.11124416399709586,1fbb663d-bebe-4c83-ad38-f2a27cdd35e4,03~mes,oc
-ANO,0.0,1fbb663d-bebe-4c83-ad38-f2a27cdd35e4,03~mes,oc
+"('07~mes', '4703~prdt', '14~geo1', '999~geo3', 'kt')",0.047075746336664205,9b45e066-3f1a-48ec-85ce-d0ea201b8f15,03~mes,kt
+"('07~mes', '2304~prdt', '15~geo1', '999~geo3', 'kt')",0.045105713847019495,9b45e066-3f1a-48ec-85ce-d0ea201b8f15,03~mes,kt
+ANO,0.00021626063750032398,9b45e066-3f1a-48ec-85ce-d0ea201b8f15,03~mes,kt
+"('10~mes', '1701~prdt', '10~geo1', '998~geo3', 'kt')",0.04521994694853383,9b45e066-3f1a-48ec-85ce-d0ea201b8f15,03~mes,oc
+ANO,0.014381313131313132,9b45e066-3f1a-48ec-85ce-d0ea201b8f15,03~mes,oc
+"('04~mes', '3102~prdt', '4~geo1', '999~geo3', 'kt')",0.04034175977566783,db60a682-03a0-452b-bf35-d137cde8702d,06~mes,kt
+"('09~mes', '1005~prdt', '31~geo1', '998~geo3', 'preço_rel')",0.038908321553894766,db60a682-03a0-452b-bf35-d137cde8702d,06~mes,kt
+ANO,0.010369128534449363,db60a682-03a0-452b-bf35-d137cde8702d,06~mes,kt
+ANO,0.0,db60a682-03a0-452b-bf35-d137cde8702d,06~mes,oc
+"('03~mes', '3105~prdt', '4~geo1', '999~geo3', 'preço_rel')",0.07211008498694704,ca5967af-abea-461a-a7ec-d81503af23cf,09~mes,kt
+ANO,0.01763999419342342,ca5967af-abea-461a-a7ec-d81503af23cf,09~mes,kt
+"('10~mes', '2304~prdt', '10~geo1', '999~geo3', 'kt')",0.28076504461645585,ca5967af-abea-461a-a7ec-d81503af23cf,09~mes,oc
+ANO,0.0,ca5967af-abea-461a-a7ec-d81503af23cf,09~mes,oc
+"('08~mes', '1201~prdt', '17~geo1', '999~geo3', 'kt')",0.07044518632304593,cb9e6684-3775-4f87-9c33-7bf275979894,12~mes,kt
+ANO,0.0008882188385435806,cb9e6684-3775-4f87-9c33-7bf275979894,12~mes,kt
+"('05~mes', '3105~prdt', '15~geo1', '999~geo3', 'kt')",0.11174585616052335,cb9e6684-3775-4f87-9c33-7bf275979894,12~mes,oc
+"('11~mes', '3104~prdt', '17~geo1', '999~geo3', 'kt')",0.10377141340834378,cb9e6684-3775-4f87-9c33-7bf275979894,12~mes,oc
+ANO,0.0017361111111111112,cb9e6684-3775-4f87-9c33-7bf275979894,12~mes,oc
